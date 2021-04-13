@@ -1,16 +1,45 @@
-### Hi there 👋
+### My name is Juan Hernandez 🙋🏾‍♂️
 
-<!--
-**JuanNisperuza/JuanNisperuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Universidad Distrital Francisco José de Caldas 
+#### Platzi Student
+-----------------------------------------------------------------------------------------------
+# Unity Developer
 
-Here are some ideas to get you started:
+▪ I'm currently working on **3DVES**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▪ _I've studied these languages_:
+
+  ✅ C#
+  ✅ C++
+  ✅ Java
+
+▪ _I'm learning ..._:
+
+  ◼ JavaScript
+  ◼ React
+  ◼ React Native
+  ◼ Css
+  ◼ Python
+ 
+  -------------------------------------------------------------------------------------------------
+  - I want to learn more about unity, and other video game engines 🎮
+  
+ 
+  _I have some knowledge in animation_:
+  - Blender
+  - Adobe After Effects
+  
+--------------------------------------------------------------------------------------------------------------
+
+**In my free time**:
+♟ Chess
+🏆 Exercise
+📕 Read
+⚔ VideoGames
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juannisperuza)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juannisperuza)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
