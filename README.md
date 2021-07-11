@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------------
 # Unity Developer
 
-▪ I'm currently working on **3DVES**
+▪ I'm currently working on personal projects
 
 ▪ _I've studied these languages_:
 
