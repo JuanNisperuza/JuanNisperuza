@@ -1,7 +1,6 @@
 ### Hi!! My name is Juan Hernandez 🙋🏾‍♂️
 
 #### Universidad Distrital Francisco José de Caldas 
-#### Platzi Student
 -----------------------------------------------------------------------------------------------
 # Unity Developer
 
